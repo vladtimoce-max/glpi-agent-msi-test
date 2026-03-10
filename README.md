@@ -1,0 +1,1 @@
+# glpi-agent-msi-test
